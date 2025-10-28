@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Carlos F. Unanue"
   pronouns         : # example: "she/her"  
   bio              : "Notre Dame B.S. Computer Science ’25. Hands-on plant engineering (Goya US & Spain), PLC troubleshooting, and market mapping in utility/industrial software."
