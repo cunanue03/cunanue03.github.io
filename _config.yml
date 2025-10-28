@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Carlos F. Unanue"
   pronouns         : # example: "she/her"  
   bio              : "Notre Dame B.S. Computer Science ’25. Hands-on plant engineering (Goya US & Spain), PLC troubleshooting, and market mapping in utility/industrial software."
   location         : "New York, NY"
@@ -58,12 +58,12 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username 
+  goodreads        : "carlos-f-unanue" 
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "carlos-f-unanue"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
